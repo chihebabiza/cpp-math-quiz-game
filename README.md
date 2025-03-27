@@ -73,3 +73,5 @@ Do you want to play again? (y/n): n
 ## License
 This project is open-source and can be modified or distributed freely.
 
+## Author
+Chiheb abiza
