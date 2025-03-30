@@ -71,7 +71,8 @@ Do you want to play again? (y/n): n
 ```
 
 ## License
-This project is open-source and can be modified or distributed freely.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 Chiheb abiza
